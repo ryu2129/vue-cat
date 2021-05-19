@@ -1,1 +1,8 @@
 /* StyleSheet */
+img {
+  opacity: 1;
+  transition: opacity 1s;
+}
+img.hide {
+  opacity: 0;
+}
